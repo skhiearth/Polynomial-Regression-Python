@@ -2,4 +2,4 @@
 
 Implementing a Polynomial Regression in Python
 
-The dataset is a set of profits earned by fictitious companies and some of their spendings on various sectors and the company's geographical presence. A polynomial relationship is seen in the data and a Polynomial Regression model is developed to predict profit of future companies according to the various attributes and help the VC fund invest in possibly profitable companies.
+The dataset is a set of salaries earned by fictitious employees according to the level they are currently in their careers. A polynomial relationship is seen in the data and a Polynomial Regression model is developed to predict salary of a persoon according to the various attributes and help a HR detect false reporting of present salaries.
